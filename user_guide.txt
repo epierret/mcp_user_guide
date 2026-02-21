@@ -1,0 +1,41 @@
+# IT User Guide - Common Issues and Solutions
+
+## 1. Password Reset
+If you forgot your password:
+1. Go to the login page
+2. Click "Forgot Password"
+3. Enter your email address
+4. Check inbox for reset link
+5. Create a new password
+
+## 2. VPN Connection Issues
+Cannot connect to VPN?
+- Check internet connection
+- Verify VPN client version
+- Try another server
+- Contact IT for error 502
+
+## 3. Email Setup
+Mobile configuration:
+1. Open Settings > Accounts
+2. Select Exchange / Office 365
+3. Enter email address
+4. Server: mail.arsene.com
+5. Enable SSL/TLS
+
+## 4. holidays
+Rh Issues:
+i wanna go to holiday next week
+1. call mrs Pierret for inquiries for rest or holidays
+
+
+#5. kubernetes
+pod are pending
+1. contact the devops team and do a ticket
+
+
+#6. dombres
+i wanna eat the best dombres
+i want dombres
+best place for dombres
+call nicole Bogat for the best dombres or Albi Pierret i ke bon 
